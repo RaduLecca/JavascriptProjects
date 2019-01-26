@@ -2,6 +2,6 @@
 Radu's Javascript projects
 
  Trainer: @Dragos Dehelean
-* [Dynamic Shopping List](http://htmlpreview.github.io/?https://github.com/RaduLecca/JavascriptProjects/blob/master/Dynamic-Shopping-list/Dynamic-Shopping-List.html)
-* [Slideshow](http://htmlpreview.github.io/?https://github.com/RaduLecca/JavascriptProjects/blob/master/Slideshow/index.html)
-* [Dog Finder](https://htmlpreview.github.io/?https://github.com/RaduLecca/JavascriptProjects/blob/master/dog%20searcher/start/index.html)
+* [Dynamic Shopping List](https://radulecca.github.io/JavascriptProjects/Dynamic-Shopping-list/Dynamic-Shopping-List.html)
+* [Slideshow](https://radulecca.github.io/JavascriptProjects/Slideshow/index.html)
+* [Dog Finder](https://radulecca.github.io/JavascriptProjects/dog%20searcher/start/index.html)
